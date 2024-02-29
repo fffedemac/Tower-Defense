@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3063c333cdd20764b9fe0d37d9ff4981, type: 3}
+  m_Name: Turret Freezing
+  m_EditorClassIdentifier: 
+  <Damage>k__BackingField: 1
+  <FireRate>k__BackingField: 3
+  <Sight>k__BackingField: 1
+  <Cost>k__BackingField: 7
+  <StatusEffects>k__BackingField:
+  - {fileID: -2689581423989631569, guid: 948b096ca80eac8439a4d4f168b6b355, type: 3}
